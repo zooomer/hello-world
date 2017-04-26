@@ -1,2 +1,2 @@
 # hello-world
-Initial Github project to test it out
+Initial project to test out Github
